@@ -1,1 +1,2 @@
 this is file2
+ change made by user2
